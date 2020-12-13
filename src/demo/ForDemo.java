@@ -1,4 +1,4 @@
-package Guess;
+package demo;
 
 public class ForDemo {
     public static void main(String[] args) {
